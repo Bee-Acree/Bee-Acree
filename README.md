@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @Bee-Acree
 - 👀 I’m interested in game development
-- 🌱 I’m currently learning C# and Godot
+- 🌱 I’m currently learning C and Godot
 - 💞️ I’m looking to collaborate on game jam projects
-- 📫 How to reach me ...
+- 📫 How to reach me beeacree@gmail.com
 - 😄 Pronouns: she/her
 - ⚡ Fun fact: ...
 
